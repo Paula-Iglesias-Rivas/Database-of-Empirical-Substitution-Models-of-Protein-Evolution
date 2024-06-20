@@ -1,10 +1,10 @@
 Database of empirical substitution models of protein evolution
+Citation: Iglesias-Rivas, Paula, Del Amparo, Roberto,  Arenas, Miguel.
 
 Substitution models of evolution describe the relative rates of fixation of mutations and can be useful to predict relevant evolutionary
 events, such as resistance mutations in protein drug targets, along an evolutionary history.
 
 This database was created as a necessity to comprise at least the most relevants models as well as their classification. 
-
 It contains different documents such as the database (models.db), the folder with the matrices (data),
 the code to create the database (dbesmpm.py) and the graphical interface to manage the database (interface_database_esmpm.py). 
 
