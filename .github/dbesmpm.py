@@ -105,7 +105,7 @@ models = [
 ]
 
 # Directory containing the substitution matrix files
-data_dir = 'Modelos\data'
+data_dir = 'data'
 
 # Create tables
 create_tables()
