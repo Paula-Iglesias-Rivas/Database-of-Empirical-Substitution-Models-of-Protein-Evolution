@@ -1,7 +1,7 @@
 Database of empirical surrogate models of protein evolution
 
 It contains different documents such as the database (models.db), the folder with the matrices (data),
-the code to create the database and the graphical interface to manage the database. 
+the code to create the database (dbesmpm.py) and the graphical interface to manage the database (interface_database_esmpm.py). 
 
 The .py file for the creation of the database is not necessary for the functioning of the interface, 
   it is merely informative about how it was created. It is important to note that, in case you want 
