@@ -1,10 +1,15 @@
-Database of empirical surrogate models of protein evolution
+Database of empirical substitution models of protein evolution
+
+Substitution models of evolution describe the relative rates of fixation of mutations and can be useful to predict relevant evolutionary
+events, such as resistance mutations in protein drug targets, along an evolutionary history.
+
+This database was created as a necessity to comprise at least the most relevants models as well as their classification. 
 
 It contains different documents such as the database (models.db), the folder with the matrices (data),
 the code to create the database (dbesmpm.py) and the graphical interface to manage the database (interface_database_esmpm.py). 
 
-The .py file for the creation of the database is not necessary for the functioning of the interface, 
-  it is merely informative about how it was created. It is important to note that, in case you want 
+The dbesmpm.py file for the creation of the database is not necessary for the functioning of the interface, 
+it is merely informative about how it was created. It is important to note that, in case you want 
 to run this script, it is necessary to pay attention to the directory where the 'data' folder is located.
 
 The graphical interface works thanks to the models.db file. As a requirement, it is necessary to have
@@ -15,7 +20,7 @@ characteristics such as: the date, author(s), a link to the article, the taxonom
 addressed and comments that were considered necessary to be made.  The models can be filtered according to these
 characteristics, for example in case we only want the models of a specific taxonomic group.
 
-To view the matrix, just double click on the desired model, a window will open that will allow you to download
+To view the matrix, just double click on the desired model, a window will open and will allow you to download
 the matrix. You can also download it without doing this, by selecting it and clicking on the download button. 
 
 To open the hyperlink you have to select the model and then click the right mouse button.
