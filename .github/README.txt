@@ -1,5 +1,5 @@
 Database of empirical substitution models of protein evolution
-Citation: Iglesias-Rivas, Paula, Del Amparo, Roberto,  Arenas, Miguel.
+Iglesias-Rivas, Paula, Del Amparo, Roberto,  Arenas, Miguel.
 
 Substitution models of evolution describe the relative rates of fixation of mutations and can be useful to predict relevant evolutionary
 events, such as resistance mutations in protein drug targets, along an evolutionary history.
